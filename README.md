@@ -6,6 +6,4 @@ The project analyses data collected by sensors at Delta building.
 
 Team members: Kairit Peekman, Anisa Bruçi, Kaire Koljal
 
-Regarding questions, please contact us:
 
-kairit.peekman@gmail.com  or kaire.koljal@gmail.com 
